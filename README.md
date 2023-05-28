@@ -1,6 +1,6 @@
 # Projeto Trixx Tecnologia & Marketing - Desafio de Estágio em React Native
 
-Este projeto foi desenvolvido como parte de um desafio proposto pela Trixx Tecnologia & Marketing para a vaga de Estagiário em React Native. O objetivo do projeto é recriar a interface do usuário com base no design fornecido no [Figma](https://www.figma.com/file/Lro0lpTK06dxRbXzzLhwzd/Aplicativo---Reservou?type=design&node-id=0-1&t=VLGFQ2iJlt4mCZfL-0).
+Este projeto foi desenvolvido como parte de um desafio proposto pela Trixx Tecnologia & Marketing para a vaga de Estagiário em React Native. O objetivo do projeto é recriar a interface do usuário com base no design fornecido no Figma.
 
 ## Tecnologias Utilizadas
 
