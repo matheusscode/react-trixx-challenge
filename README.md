@@ -38,9 +38,9 @@ Isso iniciará o aplicativo no emulador ou dispositivo móvel configurado.
 
 ## Dependências
 
--@expo-google-fonts/poppins: ^0.2.3
--@expo/vector-icons: ^13.0.0
--@expo/webpack-config: 18.0.1
+- @expo-google-fonts/poppins: ^0.2.3
+- @expo/vector-icons: ^13.0.0
+- @expo/webpack-config: 18.0.1
 @react-native-community/masked-view: ^0.1.11
 @react-navigation/drawer: ^6.6.2
 @react-navigation/native: ^6.1.6
