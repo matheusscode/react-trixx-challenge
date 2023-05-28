@@ -24,7 +24,9 @@ cd nome-do-repositorio
 
 3. Instale as dependências do projeto:
 
+```shell
 yarn install
+```
 
 ## Executando o Projeto
 
