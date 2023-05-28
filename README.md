@@ -81,7 +81,7 @@ Contribuições são bem-vindas! Se você encontrou algum problema, tem uma suge
 
 ## Licença
 
-Este projeto está licenciado sob a [Trixx Tecnologia & Marketing](link-para-licenca).
+Este projeto está licenciado sob a [Trixx Tecnologia & Marketing](https://www.trixxtem.com.br/).
 
 ## Comentários e Explicações
 
