@@ -16,7 +16,9 @@ Este projeto foi desenvolvido como parte de um desafio proposto pela Trixx Tecno
 
 1. Clone este repositório em sua máquina local:
 
+```git
 git clone [ https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/matheusscode/reactnative-trixxchallenge-ts.git)
+```
 
 2. Acesse o diretório do projeto:
 
@@ -34,7 +36,9 @@ yarn install
 
 2. Execute o seguinte comando para iniciar o aplicativo:
 
+```shell
 yarn start
+```
 
 Isso iniciará o aplicativo no emulador ou dispositivo móvel configurado.
 
